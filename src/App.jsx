@@ -5,7 +5,7 @@ import ZitaImg from "./assets/zita.png";
 import MyImg from "./assets/my.jpg"; 
 import TradeImg from "./assets/trade.png";  
 import EcomImg from "./assets/e-com.png";
-import FoodImg from "./assets/food.png";
+
 import My2Img from "./assets/my2.png";
 
 
@@ -68,7 +68,7 @@ const projects = [
     title: "Food Delivery App",
     desc: "Menu, cart, tracking, and real‑time order updates.",
     stack: ["WIX", "Plugin", "Payments Gateway"],
-    img: FoodImg,
+    img: "https://images.unsplash.com/photo-1544025162-d76694265947?q=80&w=1600&auto=format&fit=crop",
     demo: "https://exexex901.wixsite.com/my-site-2",
     code: "#",
   },
