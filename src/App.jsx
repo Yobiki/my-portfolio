@@ -2,10 +2,10 @@ import React, { useMemo, useRef } from "react";
 import { motion, useScroll, useTransform } from "framer-motion";
 import { Github, Link as LinkIcon, Mail, Phone, MapPin, ExternalLink, ChevronRight } from "lucide-react";
 import ZitaImg from "./assets/Zita.PNG";
-import MyImg from "./assets/my.png"; 
+import MyImg from "./assets/my.jpg"; 
 import TradeImg from "./assets/trade.PNG";  
 import EcomImg from "./assets/E-com.PNG";
-import FoodImg from "./assets/food.PNG";
+import FoodImg from "./assets/food.png";
 import My2Img from "./assets/my2.png";
 
 
